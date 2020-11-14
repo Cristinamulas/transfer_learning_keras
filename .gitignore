@@ -1,5 +1,7 @@
-# Ignoring checkpoints
-.ipynb_checkpoints
+# Ignoring .DS_Store files
+
+.DS_Store
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
